@@ -1,0 +1,22 @@
+extends: existence
+level: error
+message: "'%s' is a formulaic conclusion. End with substance, not ceremony."
+ignorecase: true
+tokens:
+  - to recap
+  - to wrap up
+  - wrapping up
+  - taking everything into consideration
+  - as we have seen
+  - as we've seen
+  - as discussed above
+  - as demonstrated above
+  - as shown above
+  - as outlined above
+  - the key takeaway is
+  - the main takeaway is
+  - the takeaway here is
+  - the key point is
+  - the main point is
+  - the important thing is
+  - the crucial thing is

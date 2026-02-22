@@ -1,0 +1,21 @@
+# Vale sync artifacts
+.vale-config/
+styles/*/
+!styles/ai-guard/
+
+# Git worktrees
+.worktrees/
+
+# Temporary files
+tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/

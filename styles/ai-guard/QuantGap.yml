@@ -1,0 +1,92 @@
+extends: existence
+level: error
+message: "'%s' needs a number. How much? How many? Be specific."
+ignorecase: true
+tokens:
+  - significant improvement
+  - significant reduction
+  - significant increase
+  - significant decrease
+  - significant impact
+  - significant change
+  - significant amount
+  - significant number
+  - significant portion
+  - significant progress
+  - substantial improvement
+  - substantial reduction
+  - substantial increase
+  - substantial amount
+  - substantial number
+  - substantial portion
+  - substantial progress
+  - considerable improvement
+  - considerable amount
+  - considerable number
+  - considerable effort
+  - considerable time
+  - dramatic improvement
+  - dramatic increase
+  - dramatic reduction
+  - dramatic decrease
+  - dramatic impact
+  - dramatic change
+  - major improvement
+  - major increase
+  - major reduction
+  - major impact
+  - major change
+  - minor improvement
+  - minor change
+  - minor impact
+  - vast majority
+  - vast amount
+  - vast number
+  - large number of
+  - large amount of
+  - small number of
+  - small amount of
+  - high percentage
+  - low percentage
+  - high number of
+  - many users
+  - many developers
+  - many teams
+  - many organizations
+  - many companies
+  - many projects
+  - most users
+  - most developers
+  - most teams
+  - most projects
+  - several times
+  - several orders of magnitude
+  - much faster
+  - much slower
+  - much better
+  - much worse
+  - much larger
+  - much smaller
+  - far better
+  - far worse
+  - far more
+  - far less
+  - greatly improved
+  - greatly reduced
+  - greatly increased
+  - highly performant
+  - highly scalable
+  - highly available
+  - highly reliable
+  - extremely fast
+  - extremely slow
+  - extremely large
+  - extremely small
+  - incredibly fast
+  - incredibly powerful
+  - remarkably fast
+  - remarkably efficient
+  - orders of magnitude
+  - exponentially faster
+  - exponentially better
+  - exponentially more

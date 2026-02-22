@@ -1,0 +1,12 @@
+extends: existence
+level: warning
+message: "Don't put a period at the end of a heading."
+scope: heading
+nonword: true
+action:
+  name: edit
+  params:
+    - trim_right
+    - "."
+tokens:
+  - '[a-z0-9][.]\s*$'

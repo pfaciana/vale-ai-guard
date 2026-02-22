@@ -1,0 +1,64 @@
+extends: existence
+level: error
+message: "'%s' is a copula construction. Use a direct verb instead."
+ignorecase: true
+tokens:
+  - serves as a
+  - serves as an
+  - serves as the
+  - acts as a
+  - acts as an
+  - acts as the
+  - functions as a
+  - functions as an
+  - functions as the
+  - operates as a
+  - operates as an
+  - operates as the
+  - works as a
+  - works as an
+  - works as the
+  - stands as a
+  - stands as an
+  - stands as the
+  - represents a
+  - represents an
+  - represents the
+  - constitutes a
+  - constitutes an
+  - constitutes the
+  - provides a means of
+  - provides a way to
+  - provides a mechanism for
+  - provides an opportunity to
+  - provides the ability to
+  - offers a way to
+  - offers a means of
+  - offers the ability to
+  - enables the ability to
+  - plays a role in
+  - plays a key role in
+  - plays a crucial role in
+  - plays an important role in
+  - plays a significant role in
+  - plays a vital role in
+  - plays a critical role in
+  - is responsible for
+  - is designed to
+  - is intended to
+  - is meant to
+  - is used to
+  - is utilized to
+  - is employed to
+  - is capable of
+  - is able to
+  - is tasked with
+  - is characterized by
+  - can be seen as
+  - can be thought of as
+  - can be viewed as
+  - can be considered as
+  - can be described as
+  - could be considered
+  - might be considered
+  - may be considered

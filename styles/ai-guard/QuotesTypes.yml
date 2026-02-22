@@ -1,0 +1,6 @@
+extends: existence
+level: warning
+message: 'Use straight quotation marks instead of curly quotation marks.'
+nonword: true
+tokens:
+  - '[“][^”“]+[”]'

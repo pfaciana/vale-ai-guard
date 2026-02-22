@@ -1,0 +1,10 @@
+extends: existence
+level: error
+message: "AI punctuation: em-dash detected. Use a comma, period, or parentheses instead."
+nonword: true
+tokens:
+  - '—'
+  - '–'
+  - '--'
+  - '—–'
+  - '&mdash;'

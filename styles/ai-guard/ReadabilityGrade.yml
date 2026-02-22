@@ -1,0 +1,6 @@
+extends: readability
+level: suggestion
+message: "Simplify your language. The calculated Flesch–Kincaid grade level of %s is above the recommended reading grade level of 10."
+grade: 10
+metrics:
+  - Flesch-Kincaid

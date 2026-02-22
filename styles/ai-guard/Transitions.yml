@@ -1,0 +1,26 @@
+extends: substitution
+level: error
+message: "Use '%s' instead of '%s'."
+ignorecase: true
+swap:
+  moreover: also
+  furthermore: also
+  additionally: also
+  consequently: so
+  subsequently: then
+  nevertheless: but
+  nonetheless: but
+  conversely: but
+  notwithstanding: despite
+  henceforth: from now on
+  heretofore: until now
+  inasmuch: since
+  insofar: as far as
+  thereby: by doing so
+  thus: so
+  hence: so
+  accordingly: so
+  indeed: (remove or rephrase)
+  undoubtedly: (remove or rephrase)
+  unquestionably: (remove or rephrase)
+  indubitably: (remove or rephrase)

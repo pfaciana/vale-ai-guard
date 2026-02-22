@@ -1,0 +1,59 @@
+extends: existence
+level: error
+message: "'%s' is an escape clause. Commit to a specific answer."
+ignorecase: true
+tokens:
+  - varies by context
+  - varies by use case
+  - varies by project
+  - varies by situation
+  - varies depending on
+  - can be complex
+  - can be challenging
+  - can be difficult
+  - can be tricky
+  - can be problematic
+  - is beyond the scope
+  - is outside the scope
+  - is left as an exercise
+  - there are many ways to
+  - there are several ways to
+  - there are various ways to
+  - there are numerous ways to
+  - there are a number of ways
+  - there are multiple approaches
+  - there are different approaches
+  - there are various approaches
+  - the best approach depends
+  - the right choice depends
+  - the answer depends
+  - the best solution depends
+  - each has its own
+  - each has its pros and cons
+  - each has its trade-offs
+  - each has its advantages
+  - both have their merits
+  - both have their place
+  - all have their strengths
+  - there is no one-size-fits-all
+  - there is no silver bullet
+  - there's no right answer
+  - there is no single best
+  - your choice will depend on
+  - the choice is yours
+  - ultimately it's up to you
+  - that's a matter of preference
+  - this is highly subjective
+  - opinions vary on this
+  - this is a topic of debate
+  - further research is needed
+  - more investigation is required
+  - a full discussion is beyond
+  - a detailed analysis is beyond
+  - a thorough examination would require
+  - we could go deeper but
+  - space does not permit
+  - for brevity
+  - for the sake of brevity
+  - without going into too much detail
+  - without getting too deep into

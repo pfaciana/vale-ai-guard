@@ -1,0 +1,67 @@
+extends: existence
+level: error
+message: "'%s' adds no information. Delete it."
+ignorecase: true
+tokens:
+  - it's important to remember that
+  - it is important to remember that
+  - it must be noted that
+  - it bears mentioning that
+  - as we all know
+  - as you may know
+  - as you might expect
+  - as you can imagine
+  - as you probably know
+  - as mentioned earlier
+  - as mentioned above
+  - as noted above
+  - as discussed above
+  - as previously mentioned
+  - as stated earlier
+  - at the end of the day
+  - when all is said and done
+  - the fact of the matter is
+  - the reality is that
+  - the truth is that
+  - the bottom line is
+  - in today's world
+  - in the modern era
+  - in the current landscape
+  - in the ever-evolving
+  - in an increasingly
+  - it is well known that
+  - it is widely recognized
+  - it is generally accepted
+  - it is commonly understood
+  - there is no doubt that
+  - there is no denying that
+  - there is no question that
+  - without a doubt
+  - make no mistake
+  - that is to say
+  - with that being said
+  - this is because
+  - the reason for this is
+  - the reason being
+  - what this tells us is
+  - in terms of
+  - with respect to
+  - with regard to
+  - in regard to
+  - in the context of
+  - from the perspective of
+  - from the standpoint of
+  - in the space of
+  - in the arena of
+  - in the domain of
+  - by the same token
+  - along those lines
+  - along the same lines
+  - in a similar vein
+  - by extension
+  - to that end
+  - to this end
+  - with this in mind
+  - keeping this in mind
+  - bearing this in mind
+  - with that in mind

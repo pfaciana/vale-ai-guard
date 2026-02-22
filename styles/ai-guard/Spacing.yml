@@ -1,0 +1,7 @@
+extends: existence
+level: error
+message: "Keep one space between words in '%s'."
+nonword: true
+tokens:
+  - '\w+[.?!]\s{2,}[A-Z]\w+'
+  - '\w+[.?!][A-Z]\w+'

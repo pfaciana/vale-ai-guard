@@ -1,0 +1,5 @@
+extends: metric
+message: "Document has %s words per heading (target: fewer than 300). Break up long sections."
+formula: |
+  words / (heading.h1 + heading.h2 + heading.h3 + 1.0)
+condition: "> 300.0"

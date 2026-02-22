@@ -1,0 +1,8 @@
+extends: existence
+level: error
+message: "Excessive apologizing: '%s'"
+ignorecase: true
+action:
+  name: remove
+tokens:
+  - More research is needed

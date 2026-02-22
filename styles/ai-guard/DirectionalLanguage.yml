@@ -1,0 +1,9 @@
+extends: existence
+level: suggestion
+message: "Don't use '%s' to refer to a location. Directional or visual instructions are unhelpful to visually impaired users."
+ignorecase: true
+tokens:
+  - above
+  - below
+  - left
+  - right

@@ -1,0 +1,66 @@
+extends: existence
+level: warning
+message: "'%s' is a nominalization. Use the verb form instead."
+ignorecase: true
+tokens:
+  - the implementation of
+  - the utilization of
+  - the optimization of
+  - the establishment of
+  - the determination of
+  - the configuration of
+  - the initialization of
+  - the execution of
+  - the integration of
+  - the modification of
+  - the transformation of
+  - the evaluation of
+  - the examination of
+  - the investigation of
+  - the exploration of
+  - the identification of
+  - the documentation of
+  - the demonstration of
+  - the introduction of
+  - the elimination of
+  - the reduction of
+  - the improvement of
+  - the enhancement of
+  - the development of
+  - the deployment of
+  - the migration of
+  - the generation of
+  - the validation of
+  - the verification of
+  - the authorization of
+  - the authentication of
+  - the manipulation of
+  - the accumulation of
+  - the aggregation of
+  - the allocation of
+  - the simplification of
+  - the facilitation of
+  - the acceleration of
+  - the acquisition of
+  - the formulation of
+  - the administration of
+  - make a decision
+  - make a determination
+  - make an assessment
+  - make a recommendation
+  - make an improvement
+  - perform an analysis
+  - perform an evaluation
+  - perform an investigation
+  - conduct an analysis
+  - conduct an evaluation
+  - conduct an investigation
+  - conduct a review
+  - carry out an analysis
+  - reach a conclusion
+  - come to a decision
+  - give consideration to
+  - take into consideration
+  - have a tendency to
+  - has the ability to
+  - have the ability to

@@ -1,0 +1,58 @@
+extends: existence
+level: error
+message: "'%s' is a hedge. Commit to a position or remove."
+ignorecase: true
+tokens:
+  - it could be argued
+  - in some cases
+  - in many cases
+  - in most cases
+  - it may be worth
+  - could possibly
+  - could potentially
+  - might potentially
+  - would potentially
+  - may or may not
+  - to a certain degree
+  - to a large extent
+  - to a great extent
+  - it is possible that
+  - there is a chance
+  - one could argue
+  - it seems likely
+  - it appears that
+  - it would seem
+  - it would appear
+  - this suggests that
+  - this might suggest
+  - this could indicate
+  - tends to be
+  - more or less
+  - roughly speaking
+  - at least partially
+  - at least somewhat
+  - relatively speaking
+  - comparatively speaking
+  - on the whole
+  - if you will
+  - so to speak
+  - in a manner of speaking
+  - not necessarily
+  - not always
+  - not entirely
+  - somewhat limited
+  - somewhat challenging
+  - can sometimes
+  - may sometimes
+  - might sometimes
+  - could sometimes
+  - it depends
+  - that depends
+  - depending on the context
+  - depending on the situation
+  - depending on your needs
+  - depending on the use case
+  - depending on your requirements
+  - it varies
+  - results may vary
+  - your mileage may vary
